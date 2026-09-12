@@ -27,7 +27,6 @@
 
 /* Private typedef -----------------------------------------------------------*/
 /* USER CODE BEGIN PTD */
-// GIT TESTINGGGGGGGGGGGGGGG from CUBE IDEEEEEEEEE
 /* USER CODE END PTD */
 
 /* Private define ------------------------------------------------------------*/
