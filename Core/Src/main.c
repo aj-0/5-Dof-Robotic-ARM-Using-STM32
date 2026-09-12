@@ -63,7 +63,6 @@ static void MX_USART1_UART_Init(void);
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
 void aj();
-void j();
 
 uint8_t constrain_angle(uint8_t servo, uint8_t angle)
 {
