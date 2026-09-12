@@ -1,5 +1,5 @@
 /* USER CODE BEGIN Header */
-/**
+/** 
   ******************************************************************************
   * @file           : main.c
   * @brief          : Main program body
@@ -27,7 +27,7 @@
 
 /* Private typedef -----------------------------------------------------------*/
 /* USER CODE BEGIN PTD */
-
+// GIT TESTINGGGGGGGGGGGGGGG from CUBE IDEEEEEEEEE
 /* USER CODE END PTD */
 
 /* Private define ------------------------------------------------------------*/
