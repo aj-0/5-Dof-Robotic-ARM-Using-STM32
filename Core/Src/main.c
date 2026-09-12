@@ -1,5 +1,5 @@
 /* USER CODE BEGIN Header */
-/** gitt tets
+/**
   ******************************************************************************
   * @file           : main.c
   * @brief          : Main program body
